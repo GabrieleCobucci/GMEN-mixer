@@ -35,5 +35,5 @@ In particular, in this repository we provide the functions needed to evaluate th
 
 
 %-------------------------- References --------------------------%
-[1]: 
+[1]: sss
 [2]: Bruno Luong (2024). Set partition (https://www.mathworks.com/matlabcentral/fileexchange/24133-set-partition), MATLAB Central File Exchange. Retrieved February 5, 2024.
