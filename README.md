@@ -4,8 +4,8 @@ Detecting, quantifying and characterising relevant forms of entanglement is of c
 In recent years, high-dimensional systems have emerged as a major frontier for entanglement. In bipartite systems, entanglement has been 
 detected far beyond qubit dimensions but the high-dimensional multipartite regime is more challenging. We propose to quantify the genuine
 multipartite entanglement dimension via the worst-case Schmidt number needed to generate the state by classically mixing entangled states
-over different cuts of the system.__
-Here we detect this form of entanglement by convex programming methods as proposed in [1].__
+over different cuts of the system.<br />
+Here we detect this form of entanglement by convex programming methods as proposed in [1].
 In particular, in this repository we provide the functions needed to evaluate the linear programs when the pure target state is:
 - n-partite high-dimensional GHZ state;
 - n-partite high-dimensional linear cluster state.
