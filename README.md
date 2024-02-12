@@ -35,5 +35,5 @@ In particular, in this repository we provide the functions needed to evaluate th
 
 
 %-------------------------- References --------------------------% <br />
-[1]: sss <br />
+[1]: Gabriele Cobucci, Armin Tavakoli (2024). Genuinely high-dimensional genuine multipartite entanglement (https://arxiv.org/abs/2402.06234) <br />
 [2]: Bruno Luong (2024). Set partition (https://www.mathworks.com/matlabcentral/fileexchange/24133-set-partition), MATLAB Central File Exchange. Retrieved February 5, 2024. <br />
